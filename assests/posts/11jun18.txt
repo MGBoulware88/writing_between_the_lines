@@ -1,0 +1,121 @@
+I have a Bissel Swift Sweep that I keep in my office. For the uninitiated, a Bissel Swift Sweep is one of those carpet sweepers that you roll over your carpet to pick up stuff. I don’t really use it very much. In fact, I think I’ve only used it once or twice since I received it. I didn’t take it out of the box for at least 8 months. It just doesn’t really seem very useful to me. What does it even do? I don’t have Legos to pickup. I don’t have any pets that are shedding onto my carpet ):  I just can’t really wrap my head around how I would ever use this tool. 
+
+ 
+
+I’ve always been the kind of person that very closely monitors the expected value (EV) of things. This is the reason I don’t make my bed. I look at it this way: after I leave my bed in the morning I will literally never see it again until it is time to use it again. How could the EV of making the bed possibly be positive? Hint: it isn’t. So I never make my bed. I get out of bed and toss my blanket back towards the bed in a way that will make it moderately easy to get back into bed again. The only thing I care to think about in that moment is that the blanket remain right-side up. For some reason, even though I see zero value in making my bed, I really hate having an upside-down blanket. My daily routine is something along the lines of:
+
+ 
+
+Wake up  [leave the bedroom]
+
+ 
+
+Coffee [kitchen]
+
+ 
+
+Shower [kitchen, JK bathroom]
+
+ 
+
+(Coffee again sometimes)
+
+ 
+
+Go to work [not even the house]
+
+ 
+
+Come home [office]
+
+ 
+
+(Eat dinner sometimes)
+
+ 
+
+School work [in the office]
+
+ 
+
+Sleepy time [in the bedroom]
+
+ 
+
+Did any of you see an instance of me encountering my bedroom at any point in time between waking and going to bed? Waste of time, I say. Back to the Swift Sweep. What is the EV of sweeping my carpets with the Swift Sweep? I only have carpet in the 3 bedrooms. 1 of which I seldom enter (it’s basically a storage room). The entire rest of my house is hardwood flooring. So let’s do the math. The valuable outcome is cleaning my carpet quickly with a sweeper rather than getting the Rainbow out and going ham on some deep cleaning (aside: if you don’t know what a Rainbow is, Google “Rainbow cleaner”). The effectiveness of the sweeper is directly related to the amount of “stuff I want to clean” on the surface of my carpet. The sweeper doesn’t penetrate the carpet like the Rainbow would. 
+
+ 
+
+I’m going to do some quick maths here and estimate that at least 65% of my “stuff that I want to clean” is located beneath the surface of the carpet {-1 for the EV of using the sweeper; most of what needs to be cleaned isn’t accessible by the sweeper}. This estimation is based on deductive reasoning combined with the knowledge that stepping on carpet pushes things further down that would otherwise maybe just sit on top of it (because gravity and surface tension). As I am the only occupant of this house, the only areas of the carpet that should need regular cleaning are the areas that I visit. No, I don’t take my shoes off when I enter my house through the garage. I like wearing shoes. I would have been perfectly happy were I born a girl. I may be the only man in Texas to have ever worn shoes for color blocking. Anyways, the sweeper is only going to be used on approximately 45% of the carpet {+1 for the sweeper; less to clean increases value of quick cleaning because the opportunity cost is lower}. 
+
+ 
+
+We are at +0 EV right now, but there other factors to consider. <i>How</i> clean the carpet needs to be is also important. As previously mentioned, the sweeper doesn’t really do jack shit for anything that isn’t loose, large particles on the surface of the carpet. It also doesn’t give that fresh smell that comes from cleaning the carpet with the Rainbow {-1 for the sweeper; time isn’t well spent if the cleaning ability is low}. I already gave a point related to ease-of-use because the smaller surface area that would be cleaned with the sweeper (as opposed to moving furniture out to really clean the carpet) really increases the cost of getting the Rainbow out. I would actually spend more time setting up/cleaning the Rainbow than actually using it if I were only going to use it for the same area I would be using the sweeper on. At that point, I would go ahead and leave it running to filter the air a bit now that I’ve committed to using it. But, now I’m vastly increasing the amount of time spent doing this activity. I’ve convinced myself that this is worth an extra point {+1 to the sweeper; super quick and easy to ‘freshen up’}.
+
+ 
+
+I need to weigh the use of the sweeper against the eventual use of the Rainbow. If using the Bissel Swift Sweep more often than I currently do will prevent X number of Rainbow uses (because the carpet is now ‘cleaner’ than it would be between uses, not because of some other reason I’m judging you for thinking of), then the sweeper would have a positive EV. I don’t think quick maths will suffice for this one, so let’s break it down:
+
+ 
+
+Suppose using the sweeper cleans the carpet by a factor of 35% (remember, I estimated that 65% of the “stuff I want to clean” is trapped below the surface}. Now that 65% of what I can’t clean with the sweeper is only 65% when the 35% exists (this how percentages of a whole and fractions work - stay in school, kids). Let’s use S to represent the “stuff I want to clean” and bS & oS (below surface & on surface) to represent the amounts I could clean with the sweeper vs. the Rainbow and  do some (probably terrible) Algebra.
+
+ 
+
+ S = bS + oS
+
+ 
+
+Let’s solve for S=100 over the course of two weeks. I’ll say I use the sweeper 1 time a week and the accumulation of “stuff I want to clean” is equal to the number of days that have passed since the last time I used the sweeper (so, something like S = 7D assuming I used the sweeper 7 days ago as per the scenario). There is one caveat to this: I stated earlier that walking on the carpet pushes things below the surface. I have to account for the rate in which stuff is pushed below the surface. I have to assume the rate is even or this would be impossible. I just need an approximation anyway. The answer to this equation will probably be very polarized towards or against weekly use of the sweeper (if it is close, I’m totally not gonna use it). So if 100% of “Stuff I want to clean” is S, D is how much stuff is pushed below the surface every Day, oS is the stuff currently on the Surface, and bS is what is below the Surface, then when S=100 and D=100/7; oS=35 bS=65 on day 1
+
+ 
+
+Wait, I didn’t account for the amount of “stuff that I want to clean” that is added to the carpet every day. I’ve only accounted for what gets pushed below the surface (“below the surface” just means “the stuff that the sweeper can’t get” in case that wasn’t clear). I have to add the new “stuff I want to clean” variable that gets added everyday. Let’s call that N. This number will be added to oS each time D is subtracted from oS. S will always be 100 because I’m iterating on percentages. It probably isnt’ correct to use Algebra for this, but I haven’t looked at Calculus in over 10 years. 
+
+ 
+
+S=100
+
+ 
+
+S=oS + bS
+
+ 
+
+oS=35+N-D
+
+ 
+
+bS=65+D
+
+ 
+
+Now I have to factor in how much “stuff I want to clean” gets added each day. I don’t walk back and forth over my carpet constantly. Given that, I think it is fair to say that N>D. On average, assuming N>0, I would expect that I add more to oS than I subtract by walking. 
+
+ 
+
+This gives us an upward trend of oS when N>D. IF oS approaches 50, then it would effectively eliminate some positive X of Rainbow uses {+1 for the sweeper}. I would value using the sweeper once a week if about half of the “stuff I want to clean” is on the surface of the carpet. And, because N>D, it should. 
+
+ 
+
+I can’t argue with math. Using the Bissel Swift Sweeper has an EV of +1. 
+
+ 
+
+ 
+
+ 
+
+. . .
+
+ 
+
+ 
+
+ 
+
+Now that you’ve had a peek at how my mind works, I hope that you’ll be more forgiving when I don’t answer your seemingly simple question so quickly. If you’ve ever texted me something innocuous like “Are you free this weekend?” and it took me three hours to respond, or maybe you asked me “How are you doing?” and you received my reply that was thirteen hundred words in length, if you ever looked at me when you thought it was my turn to speak and my eyes were glazed over by the fluorescent lights as I stared directly at a singular point on the wallpaper and eventually forgot what the original question was, I hope you understand now that I wasn’t ignoring you. I was listening when you spoke. I did receive your text. I heard you. I just get so busy solving for X that I forget there are people waiting. There are lives to be lived.
+
+ 
+
+Sure, there are equations to solve, but what’s the EV of that?

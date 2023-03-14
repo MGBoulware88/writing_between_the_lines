@@ -1,0 +1,79 @@
+I’ve been having trouble with the faucet in the house. I try so hard to turn it off all the way, but when I try to lay down for sleepy time it keeps me up with its constant dripping. 
+
+ 
+
+Did you know that in 2015 more people were killed by injuries caused by taking selfies than by shark attacks? I had to add the word “selfies” to my browser’s dictionary just now so that the red squiggly line would go away. 
+
+ 
+
+It would be really nice if I didn’t have to distract myself from the constant dripping of the faucet all night until I finally pass out from exhaustion.
+
+ 
+
+Even now, even though we don’t talk anymore, my stomach still sinks every time I see her name pop up in my news feed. She seems happy. I like that.
+
+ 
+
+Drip. Drip. Drip, drip.
+
+ 
+
+I guess I could try shutting the water off at the main valve, but I can’t just get shit-faced every single day. That’s not a good way to hold down a job. 
+
+ 
+
+“ We travel back to what we take
+ We need a storm, let's pray for rain now
+ To wash these roads away
+ Let's get off track and wander far
+ Same roads lead to same destinations 
+ Follow nothing but your heart 
+
+ 
+
+. . .
+
+ 
+
+  Are we not good enough?
+ Are we not brave enough?
+ Is the violence in our nature
+ Just the image of our maker?
+ Are we not good enough?
+ Are we not brave enough?
+ To become something greater
+ Than the violence in our nature?
+ Are we not good enough
+ Or is it all a dream? 
+
+ 
+
+This spreadsheets class I’m taking right now is so damn boring. And the guy in the video says “literally” literally every 30 seconds. I want to pull my hair out. Wait. . .
+
+ 
+
+Anyway, I’m working on this huge project right now where I need to install WDS on all of our practice’s servers and start capturing images of Windows 10 Pro x64 clients for the different workstations. We have 3-4 different types of workstations at each practice and we currently have 10 practices. In order to do that, I need to remote in to a virtual server at one of the practices, then login to the ESXi host (yeah, the one that is hosting the virtual server that I’m currently on), and then create a new virtual machine so I can start capturing images. It feels like I’m in a mobius strip made of VMs. 
+
+ 
+
+“Are we not good enough? Are we not brazen enough?”
+
+ 
+
+Yeah, I sometimes change the lyrics to that song when I sing it in my head. I feel like the writers really missed an opportunity to change that line once at the end when they repeat it a few times. the is basically questioning whether or not humanity is good enough to rise above the violence and choose another path. I think that requires some boldness on the front runners. It was very bold of MLK Jr. and Rosa Parks to do what they did. Yeah, sure, it was brave. But, bravery is often mistaken for stupidity and overlooked by most. The bold stand out. The bold get put in the textbooks of our grandchildren. If you want to swim upstream and not follow the current, you have to take risks.
+
+ 
+
+“ To a predetermined fate are we condemned
+ Or maybe we're a book without an end
+ We're not stories, we're not actors
+ We're awake and in control 
+ And this is not a dream “
+
+ 
+
+ 
+
+ 
+
+Be bold, my friends (but it say it like the end of a Dos Equis commercial)
